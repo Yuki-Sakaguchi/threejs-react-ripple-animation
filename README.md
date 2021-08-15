@@ -2,6 +2,8 @@
 
 https://yuki-sakaguchi.github.io/threejs-react-ripple-animation/
 
+![result](https://user-images.githubusercontent.com/16290220/129468950-a19eeb89-c6b5-4f5e-bacc-40ac1e610f46.gif)
+
 
 # メモ
 
